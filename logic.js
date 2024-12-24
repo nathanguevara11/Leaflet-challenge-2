@@ -41,7 +41,7 @@ function markerSize(magnitude)
       return 1; 
     }
   
-  return (magnitude * 2);
+  return (magnitude * 6);
 }
 
 function markerColor(depth)
